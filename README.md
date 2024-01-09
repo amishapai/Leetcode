@@ -1,2 +1,2 @@
-# Leetcode
+# Leetcode and other competitive programming
  
